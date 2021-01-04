@@ -2,7 +2,7 @@
 
 ### Front-end developer
 
-</br>
+
 
 ### Languages and tools
 

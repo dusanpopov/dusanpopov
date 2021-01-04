@@ -18,4 +18,3 @@
 
 </br>
 
-📫 How to reach me: popovdushan[at]gmail.com

@@ -2,7 +2,7 @@
 
 ### Front-end developer
 
-### Languages and tools
+### Tech stack
 
 
 

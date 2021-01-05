@@ -2,7 +2,7 @@
 
 ### Front-end developer
 
-### Tech stack
+### Main tech stack
 
 
 

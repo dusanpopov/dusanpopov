@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dušan</h1>
-<h3 align="center">A passionate frontend developer from Serbia</h3>
+<h3 align="center">Front end developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
